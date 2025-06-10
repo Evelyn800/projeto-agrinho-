@@ -1,0 +1,1 @@
+Pra começar, fiz esse projeto envolvido com a agronomia, ele é simples mas pensei diversas vezes em mudar algumas coisas em questão das cores, adicionar detalhes, minha dificuldade foi organizar os códigos tirando isso foi um sucesso.
